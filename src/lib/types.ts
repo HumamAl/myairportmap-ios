@@ -139,3 +139,8 @@ export interface MonthlyActivity {
   airports: number;
   hours: number;
 }
+
+export interface LoungeUser {
+  username: string;
+  airports: number;
+}

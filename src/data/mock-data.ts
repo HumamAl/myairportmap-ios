@@ -6,6 +6,7 @@ import type {
   StoreKitTransaction,
   FlightLogEntry,
   MonthlyActivity,
+  LoungeUser,
 } from "@/lib/types";
 
 // ── Pilot Profile ───────────────────────────────────────────────────────
@@ -616,6 +617,15 @@ export const flightLog: FlightLogEntry[] = [
     distance: 344,
     conditions: "IFR",
   },
+];
+
+// ── Pilot's Lounge Users ────────────────────────────────────────────────
+
+export const loungeUsers: LoungeUser[] = [
+  { username: "nick", airports: 216 },
+  { username: "magwahba", airports: 2 },
+  { username: "myairportmap-demo", airports: 42 },
+  { username: "ramsandres", airports: 127 },
 ];
 
 // ── Monthly Activity (Chart Data) ───────────────────────────────────────
