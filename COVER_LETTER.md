@@ -2,7 +2,7 @@
 
 I have implemented Apple StoreKit subscriptions before.
 
-Your dual-payment challenge is the interesting part here — keeping Stripe web subscriptions and StoreKit iOS subscriptions pointing at the same Clerk user account without conflicts. I built a working demo of the iOS experience: {VERCEL_URL}
+Your dual-payment challenge is the interesting part here — keeping Stripe web subscriptions and StoreKit iOS subscriptions pointing at the same Clerk user account without conflicts. I built a working demo of the iOS experience: https://myairportmap-ios.vercel.app
 
 The demo shows the full flow — airport map, achievements, flight log, and the StoreKit subscription screen with your Plus/Pro tiers. Tap through it on your phone.
 

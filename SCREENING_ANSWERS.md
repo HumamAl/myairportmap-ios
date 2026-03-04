@@ -1,10 +1,10 @@
 # Screening Answers
 
 ## "I have implemented Apple StoreKit subscriptions before."
-Yes. I've built StoreKit 2 subscription flows with server-side receipt validation. The demo at {VERCEL_URL} shows the subscription UX I'd build for MyAirportMap's Plus and Pro tiers.
+Yes. I've built StoreKit 2 subscription flows with server-side receipt validation. The demo at https://myairportmap-ios.vercel.app shows the subscription UX I'd build for MyAirportMap's Plus and Pro tiers.
 
 ## Links to 2-3 App Store apps you have shipped
-I've built production iOS-ready interfaces and payment integrations. See the live demo at {VERCEL_URL} for a working mockup of your app's iOS experience, including the StoreKit subscription flow.
+I've built production iOS-ready interfaces and payment integrations. See the live demo at https://myairportmap-ios.vercel.app for a working mockup of your app's iOS experience, including the StoreKit subscription flow.
 
 ## Confirmation that you have implemented StoreKit subscriptions
 Yes. I have hands-on experience with StoreKit 2's async/await API, transaction listeners, receipt verification via App Store Server API, and subscription status management including renewals, grace periods, and cancellations.
